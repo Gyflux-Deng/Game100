@@ -1,0 +1,10 @@
+﻿  level1_test.c
+D:\School\First Sems 2022\CSD1401_Game Department\GAME100 StudioProject\Dropout\StayInSchoolSimulator\Src\level1_test.c(88,41): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GAME100 StudioProject\Dropout\StayInSchoolSimulator\Src\level1_test.c(88,59): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GAME100 StudioProject\Dropout\StayInSchoolSimulator\Src\level1_test.c(88,70): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GAME100 StudioProject\Dropout\StayInSchoolSimulator\Src\level1_test.c(88,82): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+D:\School\First Sems 2022\CSD1401_Game Department\GAME100 StudioProject\Dropout\StayInSchoolSimulator\Src\level1_test.c(100,59): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  StayInSchoolSimulator.vcxproj -> D:\School\First Sems 2022\CSD1401_Game Department\GAME100 StudioProject\Dropout\StayInSchoolSimulator\bin\Debug-x64\StayInSchoolSimulator.exe
+  1 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
